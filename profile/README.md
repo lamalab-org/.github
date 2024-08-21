@@ -14,3 +14,10 @@ We are a [research group](https://www.chemgeo.uni-jena.de/en/8680/jablonka-group
 The group is led by [Kevin Maik Jablonka](https://kjablonka.com).
 
 
+## Supporters 
+Besides our funding agencies, we thank 
+
+- [modal](modal.com)
+- [sourcery](https://sourcery.ai/)
+  
+For compute credits. 
