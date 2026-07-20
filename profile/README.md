@@ -32,7 +32,7 @@ training chemical foundation models.
 **[MaCBench](https://github.com/lamalab-org/macbench)**: probing the limits of multimodal language
 models across chemistry and materials science.
 
-**[OpenClatura](https://github.com/lamalab-org/openclatura)**: an explainable chemical nomenclature engine that generates IUPAC names with transparent, rule-based decision traces based on the IUPAC Blue Book recomendations.
+**[Openclatura](https://github.com/lamalab-org/openclatura)**: an explainable chemical nomenclature engine that generates IUPAC names with transparent, rule-based decision traces based on the IUPAC Blue Book recomendations.
 
 **[PolyMetriX](https://github.com/lamalab-org/PolyMetriX)**: a Python ecosystem for digital polymer
 chemistry.
